@@ -1,7 +1,0 @@
-# Ignore all files in this directory
-Cargo.lock
-target
-target/*
-examples-rust/target
-examples-rust/target/*
-examples-rust/Cargo.lock
