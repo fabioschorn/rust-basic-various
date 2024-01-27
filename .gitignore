@@ -1,4 +1,4 @@
-# Ignore all files in this directory
+# Ignore all files and directories that match these patterns.
 Cargo.lock
 Cargo.toml
 target
