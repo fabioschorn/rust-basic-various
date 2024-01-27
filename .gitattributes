@@ -1,3 +1,11 @@
 # Ignore all files in this directory
-/examples-rust/Cargo.lock
-/examples-rust/Cargo.toml
+examples-rust/Cargo.*
+examples-rust/Cargo.*
+examples-rust/target # Ignore all files in this directory
+examples-rust/target/* # Ignore all files in this directory
+examples-rust/target/*/* # Ignore all files in this directory
+examples-rust/target/*/*/* # Ignore all files in this directory
+
+# Ignore binary files of Rust examples
+examples-rust/**/*.wasm
+examples-rust/**/*.wasm.map
