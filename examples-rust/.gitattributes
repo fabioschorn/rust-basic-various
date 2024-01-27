@@ -1,4 +1,0 @@
-# Gitignore for Rust projects
-./.gitignore
-./Cargo.toml
-./Cargo.lock
