@@ -1,4 +1,4 @@
-// Annotated Basic Rust Example: Factorial Calculation 
+// Annotated Basic Rust Example: Factorial Calculation
 
 // Define a function to calculate the factorial of a number.
 fn factorial(n: u64) -> u64 {
@@ -9,14 +9,14 @@ fn factorial(n: u64) -> u64 {
         // Recursive case: Calculate factorial by calling the function recursively.
         n * factorial(n - 1)
     }
-} 
+}
 
 fn main() {
     // Define the number for which we want to calculate the factorial.
-    let num: u64 = 6; 
+    let num: u64 = 6;
 
     // Call the factorial function and store the result.
-    let result = factorial(num); 
+    let result = factorial(num);
 
     // Print the result to the console.
     println!("Factorial of {} is: {}", num, result);
