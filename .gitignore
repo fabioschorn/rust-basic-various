@@ -1,4 +1,5 @@
 # Ignore all files and directories that match these patterns.
+.DS_Store
 Cargo.lock
 Cargo.toml
 doc
