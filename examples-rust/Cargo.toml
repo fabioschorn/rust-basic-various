@@ -9,4 +9,5 @@ license = "MIT"
 
 [dependencies]
 regex = "1.10.3" # https://crates.io/crates/regex
+embedded-hal = "1.0.0" # https://crates.io/crates/embedded-hal
 cortex-m = "0.7.7" # https://crates.io/crates/cortex-m
