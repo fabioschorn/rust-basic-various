@@ -13,4 +13,4 @@ This repository is a collection of several Rust code examples...
 - [Rust programming language forum](https://users.rust-lang.org/)
 - [Rust internals forum](https://internals.rust-lang.org/)
 
-## Good Lock!
+## Good Luck!
