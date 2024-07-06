@@ -13,4 +13,7 @@ This repository is a collection of several Rust code examples...
 - [Rust programming language forum](https://users.rust-lang.org/)
 - [Rust internals forum](https://internals.rust-lang.org/)
 
+## Books about Rust, that I recommend in your journey:
+ - [Programming Rust, Second Edition](https://www.oreilly.com/library/view/programming-rust-2nd/9781492052586/)
+
 ## Good Luck!
