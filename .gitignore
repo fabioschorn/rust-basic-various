@@ -4,6 +4,7 @@ Cargo.lock
 Cargo.toml
 doc
 doc/*
+others/*
 target
 target/*
 examples-rust/target
